@@ -1984,84 +1984,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2103192393}
   m_CullTransparentMesh: 1
---- !u!114 &2467238584072243660
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7190920037422128950}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f1a66cdfa57a8f4dac43379d2da5faa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  points: 0
---- !u!114 &2467238584213557441
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7190920037461689915}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f1a66cdfa57a8f4dac43379d2da5faa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  points: 0
---- !u!114 &2467238585286128807
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7190920036387037789}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f1a66cdfa57a8f4dac43379d2da5faa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  points: 0
---- !u!114 &2467238585320714052
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7190920036421663166}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f1a66cdfa57a8f4dac43379d2da5faa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  points: 0
---- !u!114 &2467238585330621605
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7190920036432710239}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f1a66cdfa57a8f4dac43379d2da5faa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  points: 0
---- !u!114 &2467238585387233483
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7190920037160445489}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f1a66cdfa57a8f4dac43379d2da5faa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  points: 0
 --- !u!33 &3337014668072817657
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -2463,7 +2385,6 @@ GameObject:
   - component: {fileID: 6214306668398997641}
   - component: {fileID: 3337014668072817657}
   - component: {fileID: 6326726377293628504}
-  - component: {fileID: 2467238585286128807}
   m_Layer: 0
   m_Name: Slot6
   m_TagString: Untagged
@@ -2482,7 +2403,6 @@ GameObject:
   - component: {fileID: 6214306668368571242}
   - component: {fileID: 3337014668103239706}
   - component: {fileID: 6326726377326124987}
-  - component: {fileID: 2467238585320714052}
   m_Layer: 0
   m_Name: Slot1
   m_TagString: Untagged
@@ -2501,7 +2421,6 @@ GameObject:
   - component: {fileID: 6214306668371138699}
   - component: {fileID: 3337014668100549627}
   - component: {fileID: 6326726377323588698}
-  - component: {fileID: 2467238585330621605}
   m_Layer: 0
   m_Name: Slot4
   m_TagString: Untagged
@@ -2520,7 +2439,6 @@ GameObject:
   - component: {fileID: 6214306667630834917}
   - component: {fileID: 3337014668706633621}
   - component: {fileID: 6326726377124331572}
-  - component: {fileID: 2467238585387233483}
   m_Layer: 0
   m_Name: Slot3
   m_TagString: Untagged
@@ -2539,7 +2457,6 @@ GameObject:
   - component: {fileID: 6214306667347906018}
   - component: {fileID: 3337014668989427346}
   - component: {fileID: 6326726378447190323}
-  - component: {fileID: 2467238584072243660}
   m_Layer: 0
   m_Name: Slot5
   m_TagString: Untagged
@@ -2558,7 +2475,6 @@ GameObject:
   - component: {fileID: 6214306667328263407}
   - component: {fileID: 3337014669143291807}
   - component: {fileID: 6326726378366197822}
-  - component: {fileID: 2467238584213557441}
   m_Layer: 0
   m_Name: Slot2
   m_TagString: Untagged
